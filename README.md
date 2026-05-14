@@ -13,7 +13,7 @@ A command-line calculator built in Java that performs basic arithmetic operation
 ## How to Run
 1. Make sure you have Java installed on your machine
 2. Clone this repository
-3. Compile the file:
+3. Compile the file: Main.java
 
 ## How to Use
 1. The menu will display 4 operation choices
