@@ -47,7 +47,7 @@ import java.util.Scanner;
                      }
                      break;
              }
-             System.out.print(ans);
+             System.out.printf("Answer: %d%n", ans);
              System.out.printf("\nDo you want to Exit? 'y' or 'n: ");
              option = input.next().charAt(0);
          }
